@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1037
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -174,7 +174,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 142
+  controlID: 152
   draggingID: 0
 --- !u!114 &8
 MonoBehaviour:
@@ -200,7 +200,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 110
+  controlID: 128
   draggingID: 0
 --- !u!114 &9
 MonoBehaviour:
@@ -1156,7 +1156,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 4a24fdff4e24fdff7a24fdffcc4ffdfff663fdff327cfdff80f9ffffd8f9ffff04faffff1efaffff36faffff4efaffff66faffff92faffff96fafffff0fafffff4ffffffca680500fa680500
+      m_ExpandedIDs: defaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1229,7 +1229,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/ImpactSounds/Impact_Can_Raw_01
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1239,16 +1239,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/ImpactSounds/Impact_Can_Raw_01
+  - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: S:\+++Dev+++\Unity\Unity Essentials\Essentials Project
+  m_LastProjectPath: C:\Users\envio\Desktop\Back-to-Basics
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 285}
-    m_SelectedIDs: 14bf0000
-    m_LastClickedID: 48916
-    m_ExpandedIDs: 00000000b62b0100b82b0100ba2b0100bc2b0100be2b0100c02b0100c22b0100c42b0100c62b0100c82b0100ca2b0100
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: a8bf0000
+    m_LastClickedID: 49064
+    m_ExpandedIDs: 00000000a8bf0000aabf0000acbf0000aebf0000b0bf0000b2bf0000b4bf0000b6bf0000b8bf0000babf0000bcbf0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1277,7 +1277,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b62b0100b82b0100ba2b0100bc2b0100be2b0100c02b0100c22b0100c42b0100c62b0100c82b0100ca2b0100
+    m_ExpandedIDs: 00000000a8bf0000aabf0000acbf0000aebf0000b0bf0000b2bf0000b4bf0000b6bf0000b8bf0000babf0000bcbf0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1305,7 +1305,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000f0a7000004cb000096cb00008a180100fa170100901901006e1901006e1701004e1a010032180100f61901009e180100a2190100761a0100061901002ab200002eb2000032b2000018ba00004eb400005eb40000d2b700000eba000072c5000066c30000e2bd0000e6bc0000eab700007aba00005ebf000050300100f627010076bd000072bd0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
