@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 1037
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Project
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -456,8 +456,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1
-    y: 24
+    x: 420
+    y: 79
     width: 1212
     height: 561
   m_SerializedDataModeController:
@@ -1136,8 +1136,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 235
-    y: 24
+    x: 234
+    y: 79
     width: 184
     height: 955
   m_SerializedDataModeController:
@@ -1154,9 +1154,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: fc4b0000
       m_LastClickedID: 0
-      m_ExpandedIDs: defaffff
+      m_ExpandedIDs: f0faffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1204,7 +1204,7 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
     x: 0
-    y: 24
+    y: 79
     width: 233
     height: 955
   m_SerializedDataModeController:
@@ -1229,7 +1229,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/_Unity Essentials/Scripts
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1239,16 +1239,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/_Unity Essentials/Scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\envio\Desktop\Back-to-Basics
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a8bf0000
-    m_LastClickedID: 49064
-    m_ExpandedIDs: 00000000a8bf0000aabf0000acbf0000aebf0000b0bf0000b2bf0000b4bf0000b6bf0000b8bf0000babf0000bcbf0000
+    m_SelectedIDs: d4c30000
+    m_LastClickedID: 50132
+    m_ExpandedIDs: 00000000a8bf0000aabf0000acbf0000aebf0000b0bf0000b2bf0000babf0000bcbf000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1305,7 +1305,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000f0a7000004cb000096cb00008a180100fa170100901901006e1901006e1701004e1a010032180100f61901009e180100a2190100761a0100061901002ab200002eb2000032b2000018ba00004eb400005eb40000d2b700000eba000072c5000066c30000e2bd0000e6bc0000eab700007aba00005ebf000050300100f627010076bd000072bd0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1394,8 +1394,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Inspector\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1635
-    y: 24
+    x: 1634
+    y: 79
     width: 285
     height: 955
   m_SerializedDataModeController:
@@ -1444,8 +1444,8 @@ MonoBehaviour:
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 1
-    y: 611
+    x: 420
+    y: 666
     width: 1212
     height: 368
   m_SerializedDataModeController:
